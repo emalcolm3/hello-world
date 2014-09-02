@@ -1,4 +1,6 @@
 hello-world
 ===========
+Hello, all...
 
+This is a homework assignment...
 hello world intro
